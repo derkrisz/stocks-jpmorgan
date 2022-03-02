@@ -1,5 +1,6 @@
 import datetime, unittest
-from stocks import Stock, StocksList
+from stock import Stock
+from stocks_list import StocksList
 
 class testStock(unittest.TestCase):
 
